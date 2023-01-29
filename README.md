@@ -1,7 +1,7 @@
 # Financial Planning and Budgeting App
 
 ##Overview
-This online app provides users a tool to better plan, maintain, and analyze their financial expenses.
+This online app provides users a tool to better plan, maintain, and analyze their financial expenses. Deployed with render.com and can be accessed here:
 https://python-microb-log.onrender.com/
 
 ##User Stories
