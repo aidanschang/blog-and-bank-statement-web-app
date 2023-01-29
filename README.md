@@ -1,13 +1,7 @@
-# Financial Planning and Budgeting App
+# Python Microblog App
 
 ##Overview
-This online app provides users a tool to better plan, maintain, and analyze their financial expenses. Deployed with render.com and can be accessed here:
+My first project with Flask and MongoDB. A simple project that demonstrates the basic operations of Flask, Jinja2, MongoDB, HTML, and CSS. The project is deployed with render.com with a free tier account and can be accessed here:
 https://python-microb-log.onrender.com/ (Please be patience with the loading time since it is the limitation of being a free tier account)
-
-##User Stories
-1. As an user, I want to have an option of adding an expense manually or by uploading my bank statement, so that the app can tracks my expenses.
-2. As an user, I want to tag each expense a category, so that I can view my category spendings.
-3. As an user, I want to be able to add comments to each expenses, so that important notes can be added.
-4. As an user, I want to be able to edit or even delete any historical expenses, so that the app can reflect accurate results.
 
 
