@@ -2,7 +2,7 @@
 
 ##Overview
 This online app provides users a tool to better plan, maintain, and analyze their financial expenses. Deployed with render.com and can be accessed here:
-https://python-microb-log.onrender.com/
+https://python-microb-log.onrender.com/ (Please be patience with the loading time since it is the limitation of being a free tier account)
 
 ##User Stories
 1. As an user, I want to have an option of adding an expense manually or by uploading my bank statement, so that the app can tracks my expenses.
